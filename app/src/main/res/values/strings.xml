@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SQLite  CRUD</string>
+    <string name="action_add_subject">Adicionar Disciplina</string>
+    <string name="course_code">Código do Curso: %d</string>
+    <string name="course_credit">Crédito do Curso: %.2f</string>
+    <string name="title_activity_subjects">Lista de Matérias</string>
+    <string name="no_data_found">Nenhum dado encontrado no banco de dados!</string>
+    <string name="student_count">Número do Estudante: %d</string>
+    <string name="subject_count">Número da Disciplina: %d</string>
+    <string name="taken_subject_count">Número da Disciplina Cursada: %d</string>
+    <string name="delete_button_description">Este ícone é responsável por excluir o recurso
+</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_create_subject">CreateSubjectActivity</string>
+    <string name="registration_no">Número de Registro</string>
+    <string name="email">Email</string>
+    <string name="phone">Celular</string>
+    <string name="cross_image_content_description">Excluir aluno do bancos de dados SQLite
+</string>
+    <string name="empty_list_message">Lista está Vazia!</string>
+    <string name="student_name">Nome do Estudante</string>
+    <string name="update">Atualizar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="create_button">Criar</string>
+    <string name="all_delete">Deletar tudo</string>
+    <string name="edit_button_description">Editar informações de um único aluno</string>
+    <string name="subject_name">Nome da Matéria</string>
+    <string name="subject_code">Código da Matéria</string>
+    <string name="subject_credit">Crédito da Matéria</string>
+    <string name="add_new_subject">Adicionar nova matéria</string>
+    <string name="student_information">Informação do Estudante</string>
+    <string name="name">Nome</string>
+    <string name="registration_no_with_color">Número de Registro: </string>
+    <string name="subject_list">Lista de Matérias</string>
+    <string name="student_list">Lista de estudantes</string>
+    <string name="database_summary">Total Estudante: %1$d. Total Matéria: %2$d</string>
+    <string name="update_button">Update</string>
+    <string name="table_row_count_failed">A contagem de linhas da tabela falhou
+</string>
+    <string name="taken_subject_by_student">Matérias cursadas pelo estudante
+</string>
+    <string name="student_and_taken_subject"><![CDATA[Informação do Estudante & Matérias Cursadas        ]]></string>
+    <string name="no_subject">Esse estudante não cursou nenhuma matéria</string>
+    <string name="subject_assign">Atribuir matéria para aluno</string>
+    <string name="close">Fechar</string>
+    <string name="no_subject_so_add_now">Nenhuma disciplina é encontrada no banco de dados. Por favor, adicione disciplina no menu da Página Inicial
+</string>
+</resources>
